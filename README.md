@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm PeeqR! 👋</h1>
 
 <p align="center">
-  •  Full Stack Developer
-  •  Python Developer 
+  •  Full Stack Developer <br>
+  •  Python Developer <br>
   •  Ethical Hacking   
 </p>
 
