@@ -1,7 +1,7 @@
-<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 <h1 align="center">Hi, I'm PeeqR! </h1> 
 
-**[Aetherlog.pythonanywhere.com](https://aetherlog.pythonanywhere.com/)**
+<a align="center" href="[https://example.com](https://aetherlog.pythonanywhere.com/)">Aetherlog.pythonanywhere.com</a>
 
 
 
