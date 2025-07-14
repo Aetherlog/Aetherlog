@@ -4,7 +4,7 @@
 ## **İletişim**:
 
 **[Aetherlog.pythonanywhere.com](https://aetherlog.pythonanywhere.com/)**
-**[https://skillicons.dev/icons?i=discord](https://discord.com/users/977895397236281356)**
+**[Discord](https://discord.com/users/977895397236281356)**
 
 
 ---
