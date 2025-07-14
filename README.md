@@ -1,8 +1,10 @@
 
 <h1 align="center">Selam, ben  PeeqR! </h1> 
+---
+## **İletişim**:
 
 **[Aetherlog.pythonanywhere.com](https://aetherlog.pythonanywhere.com/)**
-
+**[https://skillicons.dev/icons?i=discord](https://discord.com/users/977895397236281356)**
 
 
 ---
@@ -23,8 +25,6 @@
 
 - **Aletler**:\
 [![My Skills](https://skillicons.dev/icons?i=discord,vscode,windows,)](https://skillicons.dev)
----
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/977895397236281356?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=galiba,%20bo%C5%9F%20bo%C5%9F%20oturuyor)](https://discord.com/users/977895397236281356)
 ---
 
 ## 📊 **GitHub Statistics**
