@@ -1,6 +1,8 @@
 
 <h1 align="center">Selam, ben  PeeqR! </h1> 
+
 ---
+
 ## **İletişim**:
 
 **[Aetherlog.pythonanywhere.com](https://aetherlog.pythonanywhere.com/)**
